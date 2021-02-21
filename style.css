@@ -103,6 +103,13 @@ h1
 color: rgb(0, 0, 0);
 }
 #room_name{
-	background-color:red;
-	color: blue;
+	background: rgb(0,42,255);
+background: radial-gradient(circle, rgba(0,42,255,1) 0%, rgba(243,0,255,1) 13%, rgba(255,183,0,1) 25%, rgba(250,255,0,1) 37%, rgba(255,0,0,1) 50%, rgba(0,255,252,1) 63%, rgba(0,255,67,1) 75%, rgba(0,14,255,1) 88%, rgba(0,0,0,1) 100%);
+	color: rgb(255, 255, 255);
+}
+#user_name{
+	background: rgb(0,42,255);
+background: radial-gradient(circle, rgba(0,42,255,1) 0%, rgba(243,0,255,1) 13%, rgba(255,183,0,1) 25%, rgba(250,255,0,1) 37%, rgba(255,0,0,1) 50%, rgba(0,255,252,1) 63%, rgba(0,255,67,1) 75%, rgba(0,14,255,1) 88%, rgba(0,0,0,1) 100%);
+	color: rgb(255, 255, 255);
+	width: 100%;
 }
